@@ -12,7 +12,7 @@
     <tr><td>تجريبي</td><td align="right">5000</td><td nowrap><code>https://f5rdev.000webhostapp.com/iptv/Max.m3u</code></td></tr>
     <tr><td>tv-all</td><td align="right">5000</td><td nowrap><code>https://f5rdev.000webhostapp.com/iptv/tv-all.m3u</code></td></tr>
     <tr><td>all-bein</td><td align="right">5000</td><td nowrap><code>https://f5rdev.000webhostapp.com/iptv/all-bein.m3u</code></td></tr>
-    <tr><td>beIN Max</td><td align="right">5000</td><td nowrap><code>http://tv.devf5r.com/bein-max.m3u</code></td></tr>
+    <tr><td>beIN Max</td><td align="right">5000</td><td nowrap><code>www.tv.devf5r.com/bein-max.m3u</code></td></tr>
   </tbody>
 </table>
 
