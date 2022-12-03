@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://raw.githubusercontent.com/QusayBwayzeh/Website/main/qatar/img/qatar1.jpg",beIN SPORTS MAX 1 HD
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/52345.m3u8
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://raw.githubusercontent.com/QusayBwayzeh/Website/main/qatar/img/qatar2.jpg",beIN SPORTS MAX 2 HD
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/52346.m3u8
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://raw.githubusercontent.com/QusayBwayzeh/Website/main/qatar/img/qatar3.jpg",beIN SPORTS MAX 3 HD
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/52347.m3u8
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://raw.githubusercontent.com/QusayBwayzeh/Website/main/qatar/img/qatar4.jpg",beIN SPORTS MAX 4 HD
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/52348.m3u8
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://raw.githubusercontent.com/QusayBwayzeh/Website/main/qatar/img/qatar5.jpg",beIN SPORTS MAX 5 HD
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/52349.m3u8
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://raw.githubusercontent.com/QusayBwayzeh/Website/main/qatar/img/qatar6.jpg",beIN SPORTS MAX 6 HD
+http://red.ipfox.org:8080/live/Karam2022/Karam2023/52350.m3u8
